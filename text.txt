@@ -1,0 +1,3 @@
+Start at Index.html
+To Edit a Row: Fill out the text fields and then click the corresponding row's edit button.
+Managers cannot alter project finances.
